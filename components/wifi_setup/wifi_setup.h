@@ -3,3 +3,4 @@
 
 void *wlan_initialise();
 void set_station_param();
+void register_wlan_event_loops();
